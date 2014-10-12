@@ -1,6 +1,6 @@
 {
   "name": "hubot-chiebukuro",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that search the keyword on Yahoo!Chiebukuro",
   "main": "index.js",
   "scripts": {
